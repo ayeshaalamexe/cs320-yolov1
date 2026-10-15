@@ -1,0 +1,10 @@
+PASS  1. Every image has a label file  -> all good
+PASS  2. Label rows are valid YOLO (5 fields)  -> all good
+PASS  3. Class IDs valid (only 0)  -> all good
+PASS  4. Normalised values within 0-1 (boxes inside image)  -> all good
+PASS  5. Positive box width/height  -> all good
+PASS  6. No image in more than one split  -> all good
+PASS  7. Image count == label count per split  -> all good
+PASS  8. Each split has the expected files / instance total  -> all good
+PASS  9. data.yaml points to valid directories  -> all good
+PASS  10. Sampled saved labels match original boxes  -> all good

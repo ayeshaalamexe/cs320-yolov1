@@ -1,0 +1,6 @@
+Metric,Images,Pedestrian instances
+Total,170,423
+Train,119,295
+Val,25,55
+Test,26,73
+Invalid / missing files or boxes,0,-
