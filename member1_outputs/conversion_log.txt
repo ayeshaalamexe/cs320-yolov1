@@ -1,0 +1,14 @@
+ISSUES
+{
+  "unreadable_images": [],
+  "missing_masks": [],
+  "missing_annotations": [],
+  "orphan_masks": [],
+  "orphan_annotations": [],
+  "size_mismatch": [],
+  "invalid_boxes": [],
+  "conversion_failures": []
+}
+
+WARNINGS
+

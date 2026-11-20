@@ -1,0 +1,4 @@
+split,images,pedestrians,avg per image,max per image,median height px,median width px,median h/w,boxes shorter than 100px
+train,119,295,2.48,7,284,100,3.41,8
+val,25,55,2.2,6,290,104,3.52,1
+test,26,73,2.81,8,288,98,3.65,8

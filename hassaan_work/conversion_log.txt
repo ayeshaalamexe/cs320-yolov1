@@ -1,0 +1,9 @@
+ISSUES
+{
+  "missing_annotation": [],
+  "missing_mask": [],
+  "size_mismatch": [],
+  "invalid_boxes": []
+}
+
+WARNINGS
