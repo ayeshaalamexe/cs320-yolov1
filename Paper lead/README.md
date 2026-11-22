@@ -12,5 +12,3 @@ Speed: ~6 ms/image (~150 FPS). Parameters: 243,179,867.
 Single seed per setting.
 
 Note: select Runtime -> Change runtime type -> T4 GPU in Colab before running.
-
-Checkpoints: (Drive link yahan)
